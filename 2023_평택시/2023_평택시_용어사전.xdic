@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
+  <term name="사용자" description="사용자" physicalName="USR" physicalDescription="User"/>
+  <term name="등록" description="등록" physicalName="REG" physicalDescription="Register"/>
+  <term name="일자" description="날짜, 일자, 일시" physicalName="DT" physicalDescription="Date, DateTime">
+    <synonyms>일시</synonyms>
+    <synonyms>날짜</synonyms>
+  </term>
+  <term name="삭제" description="삭제" physicalName="DEL" physicalDescription="Delete"/>
+  <term name="여부" description="여부" physicalName="YN" physicalDescription="Yes/No"/>
+  <term name="밸브" description="밸브" physicalName="VL" physicalDescription="Valve"/>
+  <term name="아이디" description="아이디" physicalName="USERNAME" physicalDescription=""/>
+  <term name="이름" description="이름" physicalName="NM" physicalDescription="Name">
+    <synonyms>명</synonyms>
+  </term>
+  <term name="수정" description="수정" physicalName="UPD" physicalDescription="Update"/>
+  <term name="관리자" description="관리자" physicalName="MNG" physicalDescription="Manager"/>
+  <term name="데이터" description="데이터" physicalName="DB" physicalDescription="Data"/>
+  <term name="설정" description="설정" physicalName="SET" physicalDescription="Setting"/>
+  <term name="태그" description="태그" physicalName="TAG" physicalDescription="Tag"/>
+  <term name="값" description="값" physicalName="V" physicalDescription="Value">
+    <synonyms>수치</synonyms>
+  </term>
+  <term name="운영산정" description="운영방식" physicalName="OPR" physicalDescription="Operation">
+    <synonyms>운영</synonyms>
+  </term>
+  <term name="알람" description="알람" physicalName="AL" physicalDescription="Alarm"/>
+  <term name="수준" description="수준" physicalName="LV" physicalDescription="Level"/>
+  <term name="등급" description="등급" physicalName="RAT" physicalDescription="Rating"/>
+  <term name="유지" description="유지" physicalName="MT" physicalDescription="Maintenance"/>
+  <term name="최고" description="최고, 최대" physicalName="MAX" physicalDescription="Maximum">
+    <synonyms>최대</synonyms>
+  </term>
+  <term name="최하" description="최하, 최소" physicalName="MIN" physicalDescription="Minimum">
+    <synonyms>최소</synonyms>
+  </term>
+  <term name="메시지" description="메시지" physicalName="MSG" physicalDescription="Messege">
+    <synonyms>내용</synonyms>
+  </term>
+  <term name="유형" description="유형" physicalName="TYP" physicalDescription="Type"/>
+  <term name="위치" description="위치" physicalName="ST" physicalDescription="Station"/>
+  <term name="결정주체" description="결정주체" physicalName="DTR" physicalDescription="Determinants"/>
+  <term name="한문" description="한문" physicalName="KR" physicalDescription="Korean"/>
+  <term name="영문" description="영문" physicalName="EN" physicalDescription="English"/>
+  <term name="비밀번호" description="비밀번호" physicalName="PW" physicalDescription="Password"/>
+  <term name="연락처" description="연락처" physicalName="TEL" physicalDescription="Telephone"/>
+  <term name="항목" description="항목" physicalName="CTG" physicalDescription="Category"/>
+  <term name="운영방식" description="운영방식" physicalName="OP" physicalDescription="Operation"/>
+  <term name="ID" physicalName="ID"/>
+  <term name="구획" description="구획" physicalName="LCT" physicalDescription="Location"/>
+  <term name="탱크" description="탱크" physicalName="TANK" physicalDescription="Tank"/>
+  <term name="CODE" description="CODE" physicalName="CODE" physicalDescription="Code"/>
+</tm:TermDictionary>
